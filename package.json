@@ -1,6 +1,6 @@
 {
     "name": "@c1200/dotfiles",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Setup your dotfiles with your (node)js projects",
     "main": "index.js",
     "bin": "src/index.js",

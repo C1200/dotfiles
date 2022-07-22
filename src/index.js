@@ -3,7 +3,7 @@
 const fs = require("fs");
 const path = require("path");
 
-const files = path.join(__dirname, "./files");
+const files = path.join(__dirname, "..", "files");
 
 fs.readdirSync(files).forEach(file => {
     const content = fs.readFileSync(path.join(files, file));

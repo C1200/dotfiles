@@ -1,18 +1,18 @@
 {
     "name": "@c1200/dotfiles",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Setup your dotfiles with your (node)js projects",
     "main": "index.js",
     "bin": "src/index.js",
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/C1200/umstaff.git"
+        "url": "git+https://github.com/C1200/dotfiles.git"
     },
     "author": "",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/C1200/umstaff/issues"
+        "url": "https://github.com/C1200/dotfiles/issues"
     },
-    "homepage": "https://github.com/C1200/umstaff#readme"
+    "homepage": "https://github.com/C1200/dotfiles#readme"
   }
   

@@ -8,8 +8,8 @@
         "type": "git",
         "url": "git+https://github.com/C1200/dotfiles.git"
     },
-    "author": "",
-    "license": "ISC",
+    "author": "C1200",
+    "license": "MIT",
     "bugs": {
         "url": "https://github.com/C1200/dotfiles/issues"
     },
